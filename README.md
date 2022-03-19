@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="http://www.iconexlog.com.br/assets/img/logos/logopreta.png" alt="iConex" width="230" />
+  <img
+    src="https://github.com/marcelinosandroni/iconex-exam-front-end/blob/main/public/logo.png"
+    alt="Logo da Iconex, escrito o nome da empresa com a cor brande na primeira metade, e a cor roxa no final 'EX', com um arco iris no começo do nome, mas com as cores brancas e roxa da identidade da empresa."
+    width="230"
+  />
 </p>
 
-# Vaga Desenvolvedor FullStack Jr
+# Vaga Desenvolvedor FullStack
 
 ## Nossa empresa
 Somos apaixonados por logística e tecnologia, especializados em e-commerce, acreditamos em encontros, bons momentos provem da conexão entre pessoas, desejos, necessidade e vontade.
